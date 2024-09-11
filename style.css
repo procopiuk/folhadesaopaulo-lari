@@ -5,6 +5,12 @@
 h2 {
     font-size: 50px;
     font-family: "Roboto", sans-serif;
+
+    font-family: "Reddit Sans Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
 }
 
 
@@ -19,9 +25,3 @@ h5{
     align-items: center;
 }
 
-h2{
-    font-family: "Reddit Sans Condensed", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: <weight>;
-    font-style: normal;
-}
