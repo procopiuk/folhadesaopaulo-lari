@@ -1,6 +1,13 @@
-@import url('https://fonts.googleapi
+
+
+
 
 h2 {
     font-size: 50px;
     font-family: "Roboto", sans-serif;
+}
+
+.imgcentro{
+    display: flex;
+    align-items: center;
 }
